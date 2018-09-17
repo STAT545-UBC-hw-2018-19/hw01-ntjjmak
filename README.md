@@ -35,6 +35,7 @@ Let's look at a list of different font styles
   * `code`
     * Note: fenced code blocks (see below) is an option to inline `code`
 
+Now let's mix it up! ***bold italics*** ***bold italics ~~strikethrough~~***
 
 ### Embedding images
 Here's a cat.
@@ -73,11 +74,17 @@ Keep reading the ReadMe to see Blockquotes and Task Lists
 ```
 
 ### Blockquotes
-This weekend I watched Guardians of the Galaxy. It was great, but the only quote I can think of is:
+This weekend I watched
+\#GuardiansoftheGalaxy\
+It was great, but the only quote I can think of is:
 > I am Groot! :evergreen_tree:
 
 
 ### Tasklists
+**Assignment #1 To Dos**
+- [x] Read Me Edit :smiley:
+- [ ] R Markdown for GapMinder
+- [ ] Reflection
 
 
 ## Thanks for having a look!! :eyes:
