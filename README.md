@@ -63,6 +63,21 @@ Let's make a table of emojis for future reference.
 |:blush:| `:blush:`|
 
 
+### Fenced code blocks
+
+```
+This is me exploring fenced code blocks.
+
+Keep reading the ReadMe to see Blockquotes and Task Lists
+
+```
+
+### Blockquotes
+This weekend I watched Guardians of the Galaxy. It was great, but the only quote I can think of is:
+> I am Groot! :evergreen_tree:
+
+
+### Tasklists
 
 
 ## Thanks for having a look!! :eyes:
