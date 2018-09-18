@@ -69,7 +69,7 @@ boxplot(log(gapminder$gdpPercap) ~ gapminder$continent)
 ```
 
 
-That's it for now!
+That's it for now! :smiley:
 
 
 
