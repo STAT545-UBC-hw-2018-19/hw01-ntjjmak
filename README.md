@@ -1,5 +1,10 @@
 # Welcome to NTJJ Mak's STAT 545 Homework Page
 
+## About Me
+
+ 1. I have lived and studied in three cities: Saskatoon, Montreal, and Vancouver.
+ 2. I like Brookly Nine-Nine and it is one of the two reasons why I have a very neglected Twitter account.
+ 3. I love podcasts. Highly recommend: CBC's The Debaters, NPR's Wait, Wait, Don't Tell Me, and PodSave America.
 
 
 ## **In this repository, we will explore the Markdown style.**
